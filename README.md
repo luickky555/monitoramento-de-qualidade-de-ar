@@ -1,6 +1,6 @@
 # MonitorAQ — Sistema de Monitoramento de Qualidade do Ar
 <p align="center">
-  <img alt="MonitorAQ Banner" src="docs/banner-placeholder.png" width="880" />
+  <img alt="MonitorAQ Banner" src="banner.jpg.png" width="880" />
 </p>
 
 <p align="center">
